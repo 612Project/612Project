@@ -165,4 +165,5 @@ cython_debug/
 *.DS_Store
 
 ### LARGE CSV FILES ###
-brewery_data_complete_extended.csv
+test.csv
+train.csv
