@@ -25,6 +25,8 @@ share/python-wheels/
 .installed.cfg
 *.egg
 MANIFEST
+.venv
+venv/
 
 # PyInstaller
 #  Usually these files are written by a python script from a template
@@ -167,3 +169,6 @@ cython_debug/
 ### LARGE CSV FILES ###
 test.csv
 train.csv
+
+### API KEYS ###
+kaggle.json
